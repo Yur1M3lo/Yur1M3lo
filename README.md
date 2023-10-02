@@ -13,9 +13,6 @@
   <img align="center" alt="yuri-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="yuri-c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="yuri-c#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="yuri-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
- <img align="center" alt="yuri-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
- <img align="center" alt="yuri-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
  <img align="center" alt="yuri-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
  
 </div>
